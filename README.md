@@ -27,6 +27,8 @@ systems (Rai, Shukla & Pandey, 2025).
 Unsupervised Machine Learning, Elbow Method (WCSS) for optimal K 
 selection, K-Means clustering, Matplotlib visual quadrant mapping
 
+200 retail consumers segmented | random_state=42 for reproducibility
+
 ## Tools
 
 Python, Pandas, Scikit-Learn, Matplotlib
